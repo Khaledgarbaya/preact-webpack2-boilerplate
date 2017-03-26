@@ -1,7 +1,7 @@
 {
-  "name": "khaled-garbaya.net",
+  "name": "preact-webpack2-boilerplate",
   "version": "0.0.1",
-  "description": "Khaled Garbaya's website",
+  "description": "Another preact boilerplate, but this time it works",
   "main": "index.js",
   "scripts": {
     "build": "npm run clean && npm run build:babel && npm run build:webpack",
@@ -15,11 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Khaledgarbaya/khaled-garbaya.net.git"
+    "url": "git+https://github.com/Khaledgarbaya/preact-webpack2-boilerplate.git"
   },
   "keywords": [
-    "khaledgarbaya.net",
-    "contentful",
+    "preact",
+    "boilerplate",
+    "webpack2",
     "preact"
   ],
   "dependencies": {
