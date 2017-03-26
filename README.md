@@ -1,6 +1,7 @@
 # Preact Boilerplate Using webpack 2
 
-Another preact boilerplate, but this time it works. The reason I created this is most of the boilerplates out there assume that some dependencies are installed globally like `babel-presets-*`
+Another preact boilerplate, but this time it works. The reason I created this is most of the boilerplates out there assume that some dependencies are installed globally like `babel-presets-*`.
+Most of the stuff are taken from few projects I was working on and mostly from the [file-upload-example](https://github.com/contentful-labs/file-upload-example).
 
 ---
 
